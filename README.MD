@@ -13,6 +13,9 @@
 ## Trees
 1. [Max Path between Leaves](https://github.com/LenarBad/interview-questions/blob/main/trees/max-path-sum-between-leaves-in-beenary-tree.java)
 
+## Graphs
+1. [Find the nearest distance between Xs and Ys in a maze](https://github.com/LenarBad/interview-questions/blob/main/graphs/nearest-distance-between-x-and-y-in-maze.java)
+
 ## Arrays
 1. [Remove overlapping intervals](https://github.com/LenarBad/interview-questions/blob/main/arrays/remove-overlapping-intervals.java)
 
