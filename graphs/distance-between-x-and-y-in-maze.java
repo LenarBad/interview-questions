@@ -46,5 +46,5 @@ public int nearestDistance(Character[][] map) {
             }
         }
     }
-    return minDistance = Integer.MAX_VALUE ? -1 : minDistance;
+    return minDistance == Integer.MAX_VALUE ? -1 : minDistance;
 }
