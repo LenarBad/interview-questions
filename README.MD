@@ -22,6 +22,9 @@
 ## Arrays
 1. [Remove overlapping intervals](https://github.com/LenarBad/interview-questions/blob/main/arrays/remove-overlapping-intervals.java)
 
+## Indeed
+1. [Title Normilizer](https://github.com/LenarBad/interview-questions/blob/main/indeed/title-normalizer.java)
+
 ## Misc
 1. [Custom comparator with PriorityQueue](https://github.com/LenarBad/interview-questions/blob/main/misc/custom-comparator.java)
 
