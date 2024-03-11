@@ -24,7 +24,6 @@ public int nearestDistance(Character[][] map) {
                 q.add({i, j + 1, 1});
                 q.add({i, j - 1, 1});
               	while (!q.isEmpty()) {
-                  	// implement isValid
                     int[] cur = q.poll();
                     boolean isValid = cur[0] >= 0 && cur[1] > 0 && cur[0] < map.length && cur[1] < map[0].length;
                   	if (isValid) {
@@ -36,10 +35,10 @@ public int nearestDistance(Character[][] map) {
                         }
                       	if (map[cur[0]][cur[1]] == 'O') {
                             visited[cur[0]][cur[1]] = true;
-                        	  q.add({cur[0] + 1, cur[1], cur[2] + 1});
-                    				q.add({cur[0] - 1, cur[1], cur[2] + 1});
-                   	 				q.add({cur[0], cur[1] + 1, cur[2] + 1});
-                    				q.add({cur[0], cur[1] - 1, cur[2] + 1});
+                        	q.add({cur[0] + 1, cur[1], cur[2] + 1});
+                    		q.add({cur[0] - 1, cur[1], cur[2] + 1});
+                   	 		q.add({cur[0], cur[1] + 1, cur[2] + 1});
+                    		q.add({cur[0], cur[1] - 1, cur[2] + 1});
                         }
                     }
                 }
