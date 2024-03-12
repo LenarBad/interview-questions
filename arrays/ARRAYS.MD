@@ -4,7 +4,7 @@
 <details>
   <summary>open</summary>
 
-## Initializing Arrays
+### Initializing Arrays
 
 ```java
 String[] fruits = new String[] {"Apple", "Grape", "Peach"};
