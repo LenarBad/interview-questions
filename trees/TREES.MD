@@ -78,3 +78,4 @@ public void printAllNodes(TreeNode root) {
 5. [Find Minimal Cost Leaf in a Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/minimal-cost-leaf-in-tree.java)
 6. [Kth Smallest Node in Binary Search Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/kth-smallest-node-in-bst.java)
 7. [Diameter of Binary Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/diameter-of-binary-tree.java)
+8. [Sum of Deepest Level Leaves in Binary Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/sum-of-deepest-level-leaves.java)
