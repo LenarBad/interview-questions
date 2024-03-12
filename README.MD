@@ -29,6 +29,7 @@
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/tree-level-order-traversal.java">Binary Tree Level Order Traversal</a> - <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/" traget="_blank">102. Leetcode</a>
       </li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/minimal-cost-leaf-in-tree.java">Find Minimal Cost Leaf in a Tree</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/kth-smallest-node-in-bst.java">Kth Smallest Node in Binary Search Tree</a></li>
     </ol>
 </details>
 
