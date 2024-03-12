@@ -1,49 +1,105 @@
 # Trees
 
-## DFS (Deep First Search)
-
-### DFS for Binary Trees
+## General Info
 
 <details>
-<summary><b>In-Order/Pre-Order/Post-Order DFS</b></summary>
+<summary>Show</summary>
 
-```java
-private void inOrderDfs(TreeNode node) {
-  if (node == null) return;
-  inOrderDfs(node.left);
-  // action
-  inOrderDfs(node.left);
-}
+  ## DFS (Deep First Search)
+  
+  ### DFS for Binary Trees
+  
+  <details>
+  <summary><b>In-Order/Pre-Order/Post-Order DFS</b></summary>
+  
+  ```java
+  private void inOrderDfs(TreeNode node) {
+    if (node == null) return;
+    inOrderDfs(node.left);
+    // action
+    inOrderDfs(node.left);
+  }
+  
+  private void preOrderDfs(TreeNode node) {
+    if (node == null) return;
+    // action
+    preOrderDfs(node.left);
+    preOrderDfs(node.left);
+  }
+  
+  private void postOrderDfs(TreeNode node) {
+    if (node == null) return;
+    postOrderDfs(node.left);
+    postOrderDfs(node.left);
+    // action
+  }
+  ```
+  </details>
+  
+  <details>
+  <summary>Sort nodes example</summary>
+  
+  ```java
+  List<Integer> list = new ArrayList();
+  dfs(root, list);
+  
+  private void dfs(TreeNode node, List<Integer> sortedList) {
+    if (node == null) return;
+    dfs(node.left);
+    sortedList.add(node.val);
+    dfs(node.left);
+  }
+  ```
+  </details>
 
-private void preOrderDfs(TreeNode node) {
-  if (node == null) return;
-  // action
-  preOrderDfs(node.left);
-  preOrderDfs(node.left);
-}
+</details
 
-private void postOrderDfs(TreeNode node) {
-  if (node == null) return;
-  postOrderDfs(node.left);
-  postOrderDfs(node.left);
-  // action
-}
-```
-</details>
-
-<details>
-<summary>Sort nodes example</summary>
-
-```java
-private void dfs(TreeNode node, List<Integer> sortedList) {
-  if (node == null) return;
-  dfs(node.left);
-  sortedList.add(node.val);
-  dfs(node.left);
-}
-```
-
-</details>
+  ## DFS (Deep First Search)
+  
+  ### DFS for Binary Trees
+  
+  <details>
+  <summary><b>In-Order/Pre-Order/Post-Order DFS</b></summary>
+  
+  ```java
+  private void inOrderDfs(TreeNode node) {
+    if (node == null) return;
+    inOrderDfs(node.left);
+    // action
+    inOrderDfs(node.left);
+  }
+  
+  private void preOrderDfs(TreeNode node) {
+    if (node == null) return;
+    // action
+    preOrderDfs(node.left);
+    preOrderDfs(node.left);
+  }
+  
+  private void postOrderDfs(TreeNode node) {
+    if (node == null) return;
+    postOrderDfs(node.left);
+    postOrderDfs(node.left);
+    // action
+  }
+  ```
+  </details>
+  
+  <details>
+  <summary>Sort nodes example</summary>
+  
+  ```java
+  List<Integer> list = new ArrayList();
+  dfs(root, list);
+  
+  private void dfs(TreeNode node, List<Integer> sortedList) {
+    if (node == null) return;
+    dfs(node.left);
+    sortedList.add(node.val);
+    dfs(node.left);
+  }
+  ```
+  </details>
 
 
 1. [Max Path between Leaves](https://github.com/LenarBad/interview-questions/blob/main/trees/max-path-sum-between-leaves-in-beenary-tree.java)
