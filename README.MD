@@ -5,6 +5,9 @@
   <summary>Problems</summary>
     <ol>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/linked-list/reverse-linkedlist.java">Reverse linked list</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/linked-list/reverse-linkedlist-between.java">Reverse linked list between</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/linked-list/merge-2-sorted-lists.java">Merge 2 sorted lists</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/linked-list/merge-k-sorted-lists.java">Merge K sorted lists</a></li>
     </ol>
     
 
