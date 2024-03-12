@@ -52,7 +52,7 @@ public class Profile {
     
     List<Pair<Integer, String>> updates = fields.get(field);
     for (int i = 1; i < updates.sized(); i++) {
-      if (version < updates.get(i)) {
+      if (version < updates.get(i).getKey()) {
         return updates.get(i - 1).getValue();
       }
     }
