@@ -31,6 +31,7 @@
       </li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/minimal-cost-leaf-in-tree.java">Find Minimal Cost Leaf in a Tree</a></li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/kth-smallest-node-in-bst.java">Kth Smallest Node in Binary Search Tree</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/diameter-of-binary-tree.java">Diameter of Binary Tree</a></li>
     </ol>
 </details>
 
