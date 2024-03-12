@@ -1,6 +1,8 @@
 # Queues and Stacks
 
 ## General Info
+<details>
+  <summary>open</summary
 
 ### Queue
 
@@ -18,7 +20,9 @@ Implementations: _**LinkedList**_, _**PriorityQueue**_
 
 Methods: `peek()`, `pop()`, `push(e)`, `isEmpty()`, `size()`
 
-## Problem
+</details
+
+## Problems
 
 1. [Implement Queue Using 2 stacks](https://github.com/LenarBad/interview-questions/blob/main/queues-stacks/implement-queue-using-two-stacks.java)
 2. [Implement Stack Using Queue](https://github.com/LenarBad/interview-questions/blob/main/queues-stacks/implement-stack-using-queue.java)
