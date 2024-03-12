@@ -32,6 +32,7 @@
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/minimal-cost-leaf-in-tree.java">Find Minimal Cost Leaf in a Tree</a></li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/kth-smallest-node-in-bst.java">Kth Smallest Node in Binary Search Tree. DFS</a></li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/diameter-of-binary-tree.java">Diameter of Binary Tree. DFS</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/sum-of-deepest-level-leaves.java">Sum of Deepest Level Leaves in Binary Tree. BFS</a></li>
     </ol>
 </details>
 
