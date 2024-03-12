@@ -77,3 +77,4 @@ public void printAllNodes(TreeNode root) {
 4. [Binary Tree Level Order Traversal](https://github.com/LenarBad/interview-questions/blob/main/trees/tree-level-order-traversal.java) - [102. Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 5. [Find Minimal Cost Leaf in a Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/minimal-cost-leaf-in-tree.java)
 6. [Kth Smallest Node in Binary Search Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/kth-smallest-node-in-bst.java)
+7. [Diameter of Binary Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/diameter-of-binary-tree.java)
