@@ -5,18 +5,32 @@
 ### DFS for Binary Trees
 
 <details>
-<summary><b>In-Order DFS</b></summary>
+<summary><b>In-Order/Pre-Order/Post-Order DFS</b></summary>
 
 ```java
-private void dfs(TreeNode node) {
+private void inOrderDfs(TreeNode node) {
   if (node == null) return;
-  dfs(node.left);
+  inOrderDfs(node.left);
   // action
-  dfs(node.left);
+  inOrderDfs(node.left);
+}
+
+private void preOrderDfs(TreeNode node) {
+  if (node == null) return;
+  // action
+  preOrderDfs(node.left);
+  preOrderDfs(node.left);
+}
+
+private void postOrderDfs(TreeNode node) {
+  if (node == null) return;
+  postOrderDfs(node.left);
+  postOrderDfs(node.left);
+  // action
 }
 ```
 </details>
-We can use in-order traversal for sorting BST (Binary Search Tree) nodes by values if _action_ is adding a node or node value to a list
+
 <details>
 <summary>Sort nodes example</summary>
 
@@ -31,31 +45,6 @@ private void dfs(TreeNode node, List<Integer> sortedList) {
 
 </details>
 
-<details>
-<summary><b>Pre-Order DFS</b></summary>
-
-```java
-private void dfs(TreeNode node) {
-  if (node == null) return;
-  // action
-  dfs(node.left);
-  dfs(node.left);
-}
-```
-</details>
-
-<details>
-<summary><b>Post-Order DFS</b></summary>
-
-```java
-private void dfs(TreeNode node) {
-  if (node == null) return;
-  dfs(node.left);
-  dfs(node.left);
-  // action
-}
-```
-</details>
 
 1. [Max Path between Leaves](https://github.com/LenarBad/interview-questions/blob/main/trees/max-path-sum-between-leaves-in-beenary-tree.java)
 2. [Max Depth of Binary Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/max-depth-of-binary-tree.java)
