@@ -2,8 +2,8 @@
 
 |              | Throws Exception     | Returns special value |
 |--------------|----------------------|-----------------------|
-| Insert | add(e)      | offer(e)        |
-| Remove      | remove()  | poll()       |
-| Examine      | element()            | peek()                |
+| _Insert_     | add(e)               | offer(e)              |
+| _Remove_     | remove()             | poll()                |
+| _Examine_    | element()            | peek()                |
 
-Implementations: *LinkedList*, *PriorityQueue*
+Implementations: _*LinkedList*_, _*PriorityQueue*_
