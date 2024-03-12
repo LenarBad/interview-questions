@@ -6,7 +6,7 @@ DFS - good for "visiting" leaves of a tree
 ### DFS for Binary Trees
 
 <details>
-<summary><h4> In-Order DFS</h4></summary>
+<summary><b>In-Order DFS</b></summary>
 
 ```java
 private void dfs(TreeNode node) {
