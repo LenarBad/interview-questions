@@ -6,11 +6,8 @@
 <summary>Show</summary>
 
   ## DFS (Deep First Search)
-  
-  ### DFS for Binary Trees
-  
-  <details>
-  <summary><b>In-Order/Pre-Order/Post-Order DFS</b></summary>
+
+  In-Order/Pre-Order/Post-Order DFS
   
   ```java
   private void inOrderDfs(TreeNode node) {
@@ -36,8 +33,7 @@
   ```
   </details>
   
-  <details>
-  <summary>Sort nodes example</summary>
+ Sort nodes example
   
   ```java
   List<Integer> list = new ArrayList();
@@ -50,7 +46,34 @@
     dfs(node.left);
   }
   ```
-  </details>
+
+## BFS (Breath first Search)
+
+```java
+public void printAllNodes(TreeNode root) {
+    Queue<TreeNode> queue = new LinkedList<>();
+    queue.add(root);
+
+    while (!queue.isEmpty()) {
+        int nodesInCurrentLevel = queue.size();
+
+        // do some logic here for the current level
+        for (int i = 0; i < nodesInCurrentLevel; i++) {
+            TreeNode node = queue.remove();
+
+            // Action
+
+            // put the next level onto the queue
+            if (node.left != null) {
+                queue.add(node.left);
+            }
+            if (node.right != null) {
+                queue.add(node.right);
+            }
+        }
+    }
+}
+```
 
 </details
 
