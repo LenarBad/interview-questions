@@ -29,7 +29,7 @@ private void dfs(TreeNode node, List<Integer> sortedList) {
 }
 ```
 
-</details
+</details>
 
 <details>
 <summary><b>Pre-Order DFS</b></summary>
