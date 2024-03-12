@@ -26,6 +26,7 @@
     <ol>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/max-path-sum-between-leaves-in-beenary-tree.java">Max Path between Leaves</a></li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/max-depth-of-binary-tree.java">Max Depth of Binary Tree</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/min-depth-of-binary-tree.java">Min Depth of Binary Tree</a></li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/tree-level-order-traversal.java">Binary Tree Level Order Traversal</a> - <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/" traget="_blank">102. Leetcode</a>
       </li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/minimal-cost-leaf-in-tree.java">Find Minimal Cost Leaf in a Tree</a></li>
