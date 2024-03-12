@@ -17,9 +17,23 @@ private void dfs(TreeNode node) {
 ```
 </details>
 We can use in-order traversal for sorting BST (Binary Search Tree) nodes by values if _action_ is adding a node or node value to a list
+<details>
+<summary>Sort nodes example</summary>
+
+```java
+private void dfs(TreeNode node, List<Integer> sortedList) {
+  if (node == null) return;
+  dfs(node.left);
+  sortedList.add(node.val);
+  dfs(node.left);
+}
+```
+
+</details
 
 <details>
 <summary><b>Pre-Order DFS</b></summary>
+
 ```java
 private void dfs(TreeNode node) {
   if (node == null) return;
@@ -32,6 +46,7 @@ private void dfs(TreeNode node) {
 
 <details>
 <summary><b>Post-Order DFS</b></summary>
+
 ```java
 private void dfs(TreeNode node) {
   if (node == null) return;
