@@ -31,7 +31,6 @@
     // action
   }
   ```
-  </details>
   
  Sort nodes example
   
@@ -57,19 +56,11 @@ public void printAllNodes(TreeNode root) {
     while (!queue.isEmpty()) {
         int nodesInCurrentLevel = queue.size();
 
-        // do some logic here for the current level
         for (int i = 0; i < nodesInCurrentLevel; i++) {
             TreeNode node = queue.remove();
-
             // Action
-
-            // put the next level onto the queue
-            if (node.left != null) {
-                queue.add(node.left);
-            }
-            if (node.right != null) {
-                queue.add(node.right);
-            }
+            if (node.left != null) queue.add(node.left);
+            if (node.right != null) queue.add(node.right);
         }
     }
 }
