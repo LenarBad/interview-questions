@@ -5,7 +5,9 @@ DFS - good for "visiting" leaves of a tree
 
 ### DFS for Binary Trees
 
-#### In-Order DFS
+<details>
+<summary>#### In-Order DFS</summary>
+
 ```java
 private void dfs(TreeNode node) {
   if (node == null) return;
@@ -14,6 +16,7 @@ private void dfs(TreeNode node) {
   dfs(node.left);
 }
 ```
+</details>
 We can use in-order traversal for sorting BST (Binary Search Tree) nodes by values if _action_ is adding a node or node value to a list
 
 #### Pre-Order DFS
