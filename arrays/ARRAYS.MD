@@ -2,7 +2,7 @@
 
 ## General Info
 <details>
-<summary>...</summary>
+<summary>Show</summary>
 
 ### Initializing Arrays
 
