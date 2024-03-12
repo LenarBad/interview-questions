@@ -10,11 +10,31 @@ DFS - good for "visiting" leaves of a tree
 private void dfs(TreeNode node) {
   if (node == null) return;
   dfs(node.left);
-  // do something with the node;
+  // action
+  dfs(node.left);
+}
+```
+We can use in-order traversal for sorting BST (Binary Search Tree) nodes by values if _action_ is adding a node or node value to a list
+
+#### Pre-Order DFS
+```java
+private void dfs(TreeNode node) {
+  if (node == null) return;
+  // action
+  dfs(node.left);
   dfs(node.left);
 }
 ```
 
+#### Post-Order DFS
+```java
+private void dfs(TreeNode node) {
+  if (node == null) return;
+  dfs(node.left);
+  dfs(node.left);
+  // action
+}
+```
 
 1. [Max Path between Leaves](https://github.com/LenarBad/interview-questions/blob/main/trees/max-path-sum-between-leaves-in-beenary-tree.java)
 2. [Max Depth of Binary Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/max-depth-of-binary-tree.java)
