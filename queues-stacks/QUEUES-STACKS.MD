@@ -1,6 +1,6 @@
 # Queues and Stacks
 
-<details>
+<General Info>
   <h2><summary>General Info</summary></h2>
 
 ### Queue
@@ -19,7 +19,7 @@ Implementations: _**LinkedList**_, _**PriorityQueue**_
 
 Methods: `peek()`, `pop()`, `push(e)`, `isEmpty()`, `size()`
 
-</details>
+</General Info>
 
 ## Problems
 
