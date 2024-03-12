@@ -4,7 +4,7 @@
 <details>
   <summary>Problems</summary>
     <ol>
-      <li>Reverse linked list</li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/linked-list/reverse-linkedlist.java">Reverse linked list</a></li>
     </ol>
     
 
