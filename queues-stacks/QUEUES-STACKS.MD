@@ -1,7 +1,7 @@
 # Queues and Stacks
 
 <details>
-  <summary>General Info</summary
+  <summary>General Info</summary>
 
 ### Queue
 
