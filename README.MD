@@ -21,23 +21,49 @@
 </details>
 
 ## Trees
-1. [Max Path between Leaves](https://github.com/LenarBad/interview-questions/blob/main/trees/max-path-sum-between-leaves-in-beenary-tree.java)
-2. [Max Depth of Binary Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/max-depth-of-binary-tree.java)
-3. [Binary Tree Level Order Traversal](https://github.com/LenarBad/interview-questions/blob/main/trees/tree-level-order-traversal.java) - [102. Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-4. [Find Minimal Cost Leaf in a Tree](https://github.com/LenarBad/interview-questions/blob/main/trees/minimal-cost-leaf-in-tree.java)
+<details>
+  <summary>Problems</summary>
+    <ol>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/max-path-sum-between-leaves-in-beenary-tree.java">Max Path between Leaves</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/max-depth-of-binary-tree.java">Max Depth of Binary Tree</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/tree-level-order-traversal.java">Binary Tree Level Order Traversal</a> - <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/" traget="_blank">102. Leetcode</a>
+      </li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/trees/minimal-cost-leaf-in-tree.java">Find Minimal Cost Leaf in a Tree</a></li>
+    </ol>
+</details>
 
 ## Graphs
-1. [Find the nearest distance between Xs and Ys in a maze](https://github.com/LenarBad/interview-questions/blob/main/graphs/nearest-distance-between-x-and-y-in-maze.java)
+<details>
+  <summary>Problems</summary>
+    <ol>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/graphs/nearest-distance-between-x-and-y-in-maze.java">Find the nearest distance between Xs and Ys in a maze</a></li>
+    </ol>
+</details>
 
 ## Arrays
-1. [Remove overlapping intervals](https://github.com/LenarBad/interview-questions/blob/main/arrays/remove-overlapping-intervals.java)
+<details>
+  <summary>Problems</summary>
+    <ol>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/arrays/remove-overlapping-intervals.java">Remove overlapping intervals</a></li>
+    </ol>
+</details>
 
 ## Indeed
-1. [Title Normilizer](https://github.com/LenarBad/interview-questions/blob/main/indeed/title-normalizer.java)
-2. [String tokenizer](https://github.com/LenarBad/interview-questions/blob/main/indeed/tokenizer.java)
-3. [Versioned Resume Store](https://github.com/LenarBad/interview-questions/blob/main/indeed/versioned-resume-store.java)
+<details>
+  <summary>Problems</summary>
+    <ol>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/indeed/title-normalizer.java">Title Normilizer</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/indeed/tokenizer.java">String tokenizer</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/indeed/versioned-resume-store.java">Versioned Resume Store</a></li>
+    </ol>
+</details>
 
 ## Misc
-1. [Custom comparator with PriorityQueue](https://github.com/LenarBad/interview-questions/blob/main/misc/custom-comparator.java)
-2. [Multiple fields comparator](https://github.com/LenarBad/interview-questions/blob/main/misc/multpe-fields-comparator.java)
-3. [Main Interfaces](https://github.com/LenarBad/interview-questions/blob/main/misc/main-interfaces.md)
+<details>
+  <summary>Problems</summary>
+    <ol>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/misc/custom-comparator.java">Custom comparator with PriorityQueue</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/misc/multpe-fields-comparator.java">Multiple fields comparator</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/misc/main-interfaces.md">Main Interfaces</a></li>
+    </ol>
+</details>
