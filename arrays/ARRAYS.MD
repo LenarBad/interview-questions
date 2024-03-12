@@ -1,7 +1,8 @@
 # Arrays
 
+## General Info
 <details>
-  <summary>General Info</summary>
+  <summary>open</summary>
 
 ## Initializing Arrays
 
