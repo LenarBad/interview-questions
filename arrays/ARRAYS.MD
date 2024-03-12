@@ -1,6 +1,5 @@
 # Arrays
 
-
 <details>
 <summary><h2>General Info</h2></summary>
 
