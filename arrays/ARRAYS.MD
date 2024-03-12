@@ -1,8 +1,8 @@
 # Arrays
 
-## General Info
+
 <details>
-  <summary>open</summary>
+  <summary><h2>General Info</h2></summary>
 
 ### Initializing Arrays
 
