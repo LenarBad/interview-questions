@@ -7,10 +7,10 @@
 Map<Integer, List<Integer>> graph = new HashMap<>();
 for (int[] edge : edges) {
     int a = edge[0], b = edge[1];
-    if (graph.containsKey(a) {
+    if (graph.containsKey(a)) {
         graph.get(a).add(b);
     } else {
-        graph.put(a, Arrays.asList(b))
+        graph.put(a, Arrays.asList(b));
     }
     // do the same for a<->b if edges are bi-directional
 }
