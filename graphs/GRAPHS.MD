@@ -4,14 +4,16 @@
 ### How to build a graph if only edges are provided
 `edges = [[0,1],[1,2],[2,0]]`
 ```java
-        Map<Integer, List<Integer>> graph = new HashMap<>();
-        boolean[] seen = new boolean[n];
-
-        for (int[] edge : edges) {
-            int a = edge[0], b = edge[1];
-            graph.computeIfAbsent(a, val -> new ArrayList<Integer>()).add(b);
-            graph.computeIfAbsent(b, val -> new ArrayList<Integer>()).add(a); // if bi-directional edges
-        }
+Map<Integer, List<Integer>> graph = new HashMap<>();
+for (int[] edge : edges) {
+    int a = edge[0], b = edge[1];
+    if (graph.containsKey(a) {
+        graph.get(a).add(b);
+    } else {
+        graph.put(Arrays.asList(b))
+    }
+    // do the same for a<->b if edges are bi-directional
+}
 ```
 
 ## Problems
