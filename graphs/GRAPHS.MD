@@ -10,7 +10,7 @@ for (int[] edge : edges) {
     if (graph.containsKey(a) {
         graph.get(a).add(b);
     } else {
-        graph.put(Arrays.asList(b))
+        graph.put(a, Arrays.asList(b))
     }
     // do the same for a<->b if edges are bi-directional
 }
