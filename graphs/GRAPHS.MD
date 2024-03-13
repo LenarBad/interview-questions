@@ -19,5 +19,5 @@ for (int[] edge : edges) {
 ## Problems
 
 1. [Find the nearest distance between Xs and Ys in a maze](https://github.com/LenarBad/interview-questions/blob/main/graphs/nearest-distance-between-x-and-y-in-maze.java)
-2.1 [Find if path exists - DFS](https://github.com/LenarBad/interview-questions/blob/main/graphs/find-if-path-exists-dfs.java)
-2.2 [Find if path exists - BFS](https://github.com/LenarBad/interview-questions/blob/main/graphs/find-if-path-exists-bfs.java)
+2.1. [Find if path exists - DFS](https://github.com/LenarBad/interview-questions/blob/main/graphs/find-if-path-exists-dfs.java)
+2.2. [Find if path exists - BFS](https://github.com/LenarBad/interview-questions/blob/main/graphs/find-if-path-exists-bfs.java)
