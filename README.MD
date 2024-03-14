@@ -49,6 +49,7 @@
   <summary>Problems</summary>
     <ol>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/arrays/remove-overlapping-intervals.java">Remove overlapping intervals</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/arrays/merge-sorted-array.java">Merge Sorted Array</a></li>
     </ol>
 </details>
 
