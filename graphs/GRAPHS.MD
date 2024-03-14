@@ -1,5 +1,10 @@
 # Graphs
 
+## Adjacency Matrix
+
+M[i,j] is 1 if (i,j) is and edge of the graph.
+M is an nxn matrix where n is the number of vertices.
+
 
 ### How to build a graph if only edges are provided
 `edges = [[0,1],[1,2],[2,0]]`
