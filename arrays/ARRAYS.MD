@@ -28,3 +28,4 @@ int[] copy = Arrays.copyOf(array, array.size());
 ## Problems
 
 1. [Remove overlapping intervals](https://github.com/LenarBad/interview-questions/blob/main/arrays/remove-overlapping-intervals.java)
+2. [Merge Sorted Array](https://github.com/LenarBad/interview-questions/blob/main/arrays/merge-sorted-array.java)
