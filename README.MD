@@ -54,12 +54,12 @@
 
 ## PriorityQueue
 <details>
-  <summary>Problems</summary
+  <summary>Problems</summary>
     <ol>
-      <li>ddd</li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/priority-queue/find-median-from-data-stream.java">Find Median from Data Stream</a> - <a href="https://leetcode.com/problems/find-median-from-data-stream/description/">295. Leetcode</a></li>
     </ol>
 </details>
-<a href="https://github.com/LenarBad/interview-questions/blob/main/priority-queue/find-median-from-data-stream.java">Find Median from Data Stream</a> - <a href="https://leetcode.com/problems/find-median-from-data-stream/description/">295. Leetcode</a>
+
 ## Indeed
 <details>
   <summary>Problems</summary>
