@@ -1,10 +1,34 @@
 # Graphs
 
-## Adjacency Matrix
+## BFS (Breadth First Search) Algorythm
 
-M[i,j] is 1 if (i,j) is and edge of the graph.
-M is an nxn matrix where n is the number of vertices.
+s - is the start vertex;
 
+```java
+    for each vertex u {
+        state[u] = UNDISCOVERED;
+        parent[u] = null;
+        distance[u] = Integer.MAX_VALUE;
+    }
+    
+    state[s] = DISCOVERED;
+    distance[s] = 0;
+    create a queue Q
+    Q,add(s)
+    while (!Q.isEmpty()) {
+        u = Q.remove();
+        // Any additional processing if needed here or afte the for loop
+        for each v adjacent to u {
+            if (state[v] == UNDISCOVERED) {
+                state[v] = DISCOVERED;
+                parent[v] = u;
+                distance[v] = distance[u] + 1;
+                Q.add(v);
+            }
+        }
+        state[u] = PROCESSED;
+    }
+```
 
 ### How to build a graph if only edges are provided
 `edges = [[0,1],[1,2],[2,0]]`
