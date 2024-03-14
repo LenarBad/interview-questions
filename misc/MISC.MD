@@ -1,5 +1,4 @@
 # MISC
 
-1. [Custom comparator with PriorityQueue](https://github.com/LenarBad/interview-questions/blob/main/misc/custom-comparator.java)
-2. [Multiple fields comparator](https://github.com/LenarBad/interview-questions/blob/main/misc/multpe-fields-comparator.java)
-3. [Main Interfaces](https://github.com/LenarBad/interview-questions/blob/main/misc/main-interfaces.md)
+1. [Comparators](https://github.com/LenarBad/interview-questions/blob/main/misc/comparators.java)
+2. [Main Interfaces](https://github.com/LenarBad/interview-questions/blob/main/misc/main-interfaces.md)
