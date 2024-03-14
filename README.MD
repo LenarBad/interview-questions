@@ -52,6 +52,17 @@
     </ol>
 </details>
 
+## PriorityQueue
+
+
+## Problems
+<details>
+  <summary>Problems</summary
+    <ol>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/priority-queue/find-median-from-data-stream.java">Find Median from Data Stream</a> - <a href="https://leetcode.com/problems/find-median-from-data-stream/description/">295. Leetcode</a></li>
+    </ol>
+</details>
+
 ## Indeed
 <details>
   <summary>Problems</summary>
