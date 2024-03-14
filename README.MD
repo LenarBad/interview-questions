@@ -74,8 +74,7 @@
 <details>
   <summary>Problems</summary>
     <ol>
-      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/misc/custom-comparator.java">Custom comparator with PriorityQueue</a></li>
-      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/misc/multpe-fields-comparator.java">Multiple fields comparator</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/misc/comparators.java">Comparators</a></li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/misc/main-interfaces.md">Main Interfaces</a></li>
     </ol>
 </details>
