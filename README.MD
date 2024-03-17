@@ -12,7 +12,6 @@
 
 ## Arrays
 <details>
-  <summary>Problems</summary>
     <ol>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/arrays/remove-overlapping-intervals.java">Remove overlapping intervals</a></li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/arrays/merge-sorted-array.java">Merge Sorted Array</a></li>
@@ -36,6 +35,15 @@
     <ol>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/queues-stacks/implement-queue-using-two-stacks.java">Implement Queue Using 2 stacks</a></li>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/queues-stacks/implement-stack-using-queue.java">Implement Stack Using Stack</a></li>
+    </ol>
+</details>
+
+## PriorityQueues
+<details>
+  <summary>Problems</summary>
+    <ol>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/priority-queue/find-median-from-data-stream.java">Find Median from Data Stream</a> - <a href="https://leetcode.com/problems/find-median-from-data-stream/description/">295. Leetcode</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/priority-queue/top-k-most-frequent-elements.java">Top K Most Frequent Elements</a> - <a href="https://leetcode.com/problems/top-k-frequent-elements/">347. Leetcode</a></li>
     </ol>
 </details>
 
@@ -63,14 +71,7 @@
     </ol>
 </details>
 
-## PriorityQueue
-<details>
-  <summary>Problems</summary>
-    <ol>
-      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/priority-queue/find-median-from-data-stream.java">Find Median from Data Stream</a> - <a href="https://leetcode.com/problems/find-median-from-data-stream/description/">295. Leetcode</a></li>
-      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/priority-queue/top-k-most-frequent-elements.java">Top K Most Frequent Elements</a> - <a href="https://leetcode.com/problems/top-k-frequent-elements/">347. Leetcode</a></li>
-    </ol>
-</details>
+## Dynamic Programming
 
 ## Indeed
 <details>
