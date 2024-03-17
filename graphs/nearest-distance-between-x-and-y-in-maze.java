@@ -13,19 +13,18 @@
 // Y: destinations
 // S: obstacles
     private static final int[][] DIRECTIONS = new int[][]{
-            {-1, 0},
-            {1, 0},
-            {0, -1},
-            {0, 1}
+            {-1,  0},
+            { 1,  0},
+            { 0, -1},
+            { 0,  1}
     };
 
     public int nearestDistance(Character[][] map) {
         Queue<int[]> q = new LinkedList<>();
         boolean[][] visited = new boolean[map.length][map[0].length];
-
         // find out the starting points
-        for (int i = 0; i < map.length; ++i) {
-            for (int j = 0; j < map[0].length; ++j) {
+        for (int i = 0; i < map.length; i++) {
+            for (int j = 0; j < map[0].length; j++) {
                 // insert all the starting points into the queue
                 if (map[i][j] == 'X') {
                     q.offer(new int[]{i, j});
@@ -57,7 +56,7 @@
                 }
             }
             currentLevelQueueSize = q.size();
-            ++distance;
+            distance++;
         }
         return -1;
     }
