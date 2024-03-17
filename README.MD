@@ -55,10 +55,9 @@
 </ol>
 
 ## Dynamic Programming
-
 <ol>
   <li><a href="https://github.com/LenarBad/interview-questions/blob/main/dp/edit-distance-between-2-strings.java">Edit distance between 2 strings</a></li>
-<ol>
+</ol>
 
 ## Indeed
 <ol>
