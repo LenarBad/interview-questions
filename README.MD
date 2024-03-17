@@ -1,8 +1,25 @@
 # Interview Questions
 
-<a href="#Linked-list">Linked List</a> 
+<a href="#Arrays">Arrays</a>  
+<a href="#Linked-lists">Linked Lists</a>  
+<a href="#Queues-and-Stacks">Queues and Stacks</a>  
+<a href="#PriorityQueues">PriorityQueues</a>  
+<a href="#Trees">Trees</a>  
+<a href="#Graphs">Graphs</a>  
+<a href="#Dynamic-Programming">Dynamic Programming</a>  
+<a href="#Indeed">Indeed</a>  
+<a href="#Misc">Misc</a>  
 
-## Linked List
+## Arrays
+<details>
+  <summary>Problems</summary>
+    <ol>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/arrays/remove-overlapping-intervals.java">Remove overlapping intervals</a></li>
+      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/arrays/merge-sorted-array.java">Merge Sorted Array</a></li>
+    </ol>
+</details>
+
+## Linked Lists
 <details>
   <summary>Problems</summary>
     <ol>
@@ -43,15 +60,6 @@
   <summary>Problems</summary>
     <ol>
       <li><a href="https://github.com/LenarBad/interview-questions/blob/main/graphs/nearest-distance-between-x-and-y-in-maze.java">Find the nearest distance between Xs and Ys in a maze</a></li>
-    </ol>
-</details>
-
-## Arrays
-<details>
-  <summary>Problems</summary>
-    <ol>
-      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/arrays/remove-overlapping-intervals.java">Remove overlapping intervals</a></li>
-      <li><a href="https://github.com/LenarBad/interview-questions/blob/main/arrays/merge-sorted-array.java">Merge Sorted Array</a></li>
     </ol>
 </details>
 
