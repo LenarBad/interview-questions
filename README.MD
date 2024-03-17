@@ -1,5 +1,7 @@
 # Interview Questions
 
+<a href="#Linked-list">Linked List</a> 
+
 ## Linked List
 <details>
   <summary>Problems</summary>
