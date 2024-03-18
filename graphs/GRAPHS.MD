@@ -45,4 +45,5 @@ for (int[] edge : edges) {
     <li><a href="https://github.com/LenarBad/interview-questions/blob/main/graphs/nearest-distance-between-x-and-y-in-maze.java">Find the nearest distance between Xs and Ys in a maze</a></li>
     <li><a href="https://github.com/LenarBad/interview-questions/blob/main/graphs/find-if-path-exists-dfs.java">Find if path exists. DFS</a> - <a href="https://github.com/LenarBad/interview-questions/blob/main/graphs/find-if-path-exists-bfs.java">Find if path exists. BFS</a></li>
     <li><a href="https://github.com/LenarBad/interview-questions/blob/main/graphs/minimum-knight-moves.java">Minimum Knight Moves</a></li>
+    <li><a href="https://github.com/LenarBad/interview-questions/blob/main/graphs/word-search.java">Word Search</a> - <a href="https://leetcode.com/problems/word-search">79. Leetcode</a></li>
 </ol>
