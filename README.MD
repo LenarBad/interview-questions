@@ -1,5 +1,6 @@
 # Interview Questions
 
+<a href="#Strings">Strings</a>  
 <a href="#Arrays">Arrays</a>  
 <a href="#Linked-lists">Linked Lists</a>  
 <a href="#Queues-and-Stacks">Queues and Stacks</a>  
@@ -9,6 +10,11 @@
 <a href="#Dynamic-Programming">Dynamic Programming</a>  
 <a href="#Indeed">Indeed</a>  
 <a href="#Misc">Misc</a>  
+
+## Strings
+<ol>
+  <li><a href="https://github.com/LenarBad/interview-questions/blob/main/strings/text-justification.java">Text Justification</a> - <a href="https://leetcode.com/problems/text-justification/description/">68. Leetcode</a></li>
+</ol>
 
 ## Arrays
 <ol>
