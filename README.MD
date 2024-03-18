@@ -3,9 +3,6 @@
 |[Strings](#Strings)|[Arrays](#Arrays)|[Linked Lists](#Linked-lists)|[Queues and Stacks](#Queues-and-Stacks)|[PriorityQueues](#PriorityQueues)|[Trees](#Trees)|[Graphs](#Graphs)|[Dynamic Programming](#Dynamic-Programming)|[Indeed](#Indeed)|[Misc](#Misc)|
 |---|---|---|---|---|---|---|---|---|---|
 
-<kbd><br>[STRINGS](#Strings)<br></kbd> <kbd><br>[Arrays](#Arrays)<br></kbd>
-
-
 ## Strings
 <ol>
   <li><a href="https://github.com/LenarBad/interview-questions/blob/main/strings/text-justification.java">Text Justification</a> - <a href="https://leetcode.com/problems/text-justification/description/">68. Leetcode</a></li>
