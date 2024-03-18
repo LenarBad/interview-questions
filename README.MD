@@ -1,5 +1,8 @@
 # Interview Questions
 
+|[Strings](#Strings)|[Dynamic Programming](#Dynamic-Programming)|[Misc](#Misc)|
+|---|---|---|
+
 <a href="#Strings">Strings</a>  
 <a href="#Arrays">Arrays</a>  
 <a href="#Linked-lists">Linked Lists</a>  
