@@ -1,6 +1,6 @@
 # Interview Questions
 
-|[Strings](#Strings)|[Dynamic Programming](#Dynamic-Programming)|[Misc](#Misc)|
+|[Strings](#Strings)|[Arrays](#Arrays)|[Linked Lists](#Linked-lists)|[Strings](#Strings)|[Strings](#Strings)|[Strings](#Strings)|[Dynamic Programming](#Dynamic-Programming)|[Misc](#Misc)|
 |---|---|---|
 
 <a href="#Strings">Strings</a>  
