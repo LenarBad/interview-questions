@@ -3,16 +3,6 @@
 |[Strings](#Strings)|[Arrays](#Arrays)|[Linked Lists](#Linked-lists)|[Queues and Stacks](#Queues-and-Stacks)|[PriorityQueues](#PriorityQueues)|[Trees](#Trees)|[Graphs](#Graphs)|[Dynamic Programming](#Dynamic-Programming)|[Indeed](#Indeed)|[Misc](#Misc)|
 |---|---|---|---|---|---|---|---|---|---|
 
-<a href="#Strings">Strings</a>  
-<a href="#Arrays">Arrays</a>  
-<a href="#Linked-lists">Linked Lists</a>  
-<a href="#Queues-and-Stacks">Queues and Stacks</a>  
-<a href="#PriorityQueues">PriorityQueues</a>  
-<a href="#Trees">Trees</a>  
-<a href="#Graphs">Graphs</a>  
-<a href="#Dynamic-Programming">Dynamic Programming</a>  
-<a href="#Indeed">Indeed</a>  
-<a href="#Misc">Misc</a>  
 
 ## Strings
 <ol>
