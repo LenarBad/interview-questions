@@ -1,6 +1,6 @@
 # Interview Questions
 
-|[Strings](#Strings)|[Arrays](#Arrays)|[Linked Lists](#Linked-lists)|[Queues and Stacks](#Queues-and-Stacks)|[PriorityQueues](#PriorityQueues)|[Trees](#Trees)|[Graphs](#Graphs)|[Dynamic Programming](#Dynamic-Programming)|[Indeed](#Indeed)|[Misc](#Misc)|
+|[Strings](#Strings)|[Arrays](#Arrays)|[Linked Lists](#Linked-lists)|[Queues and Stacks](#Queues-and-Stacks)|[Priority Queues](#PriorityQueues)|[Trees](#Trees)|[Graphs](#Graphs)|[Dynamic Programming](#Dynamic-Programming)|[Indeed](#Indeed)|[Misc](#Misc)|
 |---|---|---|---|---|---|---|---|---|---|
 
 ## Strings
