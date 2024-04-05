@@ -1,6 +1,6 @@
 # Interview Questions
 
-|[Strings](#Strings)|[Arrays](#Arrays)|[Linked Lists](#Linked-lists)|[Queues and Stacks](#Queues-and-Stacks)|[Priority Queues](#PriorityQueues)|[Trees](#Trees)|[Graphs](#Graphs)|[Dynamic Programming](#Dynamic-Programming)|[Indeed](#Indeed)|[Misc](#Misc)|
+|[Strings](#Strings)|[Arrays](#Arrays)|[Linked Lists](#Linked-lists)|[Queues and Stacks](#Queues-and-Stacks)|[Priority Queues](#PriorityQueues)|[Trees](#Trees)|[Graphs](#Graphs)|[Dynamic Programming](#Dynamic-Programming)|[Company](#Company)|[Misc](#Misc)|
 |---|---|---|---|---|---|---|---|---|---|
 
 ## Strings
@@ -63,12 +63,12 @@
   <li><a href="https://github.com/LenarBad/interview-questions/blob/main/dp/maximum-length-of-repeated-subarray.java">Maximum Length of Repeated Subarray</a></li>
 </ol>
 
-## Indeed
+## Company
 <ol>
-  <li><a href="https://github.com/LenarBad/interview-questions/blob/main/indeed/title-normalizer.java">Title Normilizer</a></li>
-  <li><a href="https://github.com/LenarBad/interview-questions/blob/main/indeed/tokenizer.java">String tokenizer</a></li>
-  <li><a href="https://github.com/LenarBad/interview-questions/blob/main/indeed/versioned-resume-store.java">Versioned Resume Store</a></li>
-  <li><a href="https://github.com/LenarBad/interview-questions/blob/main/indeed/unrolled-list.java">Unrolled list</a></li>
+  <li><a href="https://github.com/LenarBad/interview-questions/blob/main/company/title-normalizer.java">Title Normilizer</a></li>
+  <li><a href="https://github.com/LenarBad/interview-questions/blob/main/company/tokenizer.java">String tokenizer</a></li>
+  <li><a href="https://github.com/LenarBad/interview-questions/blob/main/company/versioned-resume-store.java">Versioned Resume Store</a></li>
+  <li><a href="https://github.com/LenarBad/interview-questions/blob/main/company/unrolled-list.java">Unrolled list</a></li>
 </ol>
 
 ## Misc
