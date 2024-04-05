@@ -1,4 +1,4 @@
-# Indeed
+# Company
 
 <ol>
   <li><a href="https://github.com/LenarBad/interview-questions/blob/main/company/title-normalizer.java">Title Normilizer</a></li>
